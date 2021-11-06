@@ -1,0 +1,42 @@
+h1
+{
+	color: red;
+}
+
+strong
+{
+	color: blue;
+}
+
+li 
+{
+	text-decoration: underline;
+}
+h2
+{
+	color: red;
+}
+body
+{
+	background-image: url("op.jpg");
+	background-attachment: fixed;
+}
+p
+{
+	font-size: medium;
+}
+mark
+{
+	background-color: silver;
+	color: black;
+}
+h3
+{
+	background-color: black;
+	color: red;
+}
+h2 
+{
+	background-color: red;
+	color: black;
+}
